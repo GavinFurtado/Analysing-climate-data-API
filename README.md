@@ -7,9 +7,11 @@ An interesting insight found during the project was that India and France had mo
 Whereas in Australia and USA the increase in temperature higher than rainfall this could mean that over the years these countries might have good a good market value for solar energy companies.
 
 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲
+
 Python
 
 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 𝗳𝗮𝗰𝗲𝗱 
+
 One major disadvantage was the volume of data, the climate API gives an average temperature of each month over a period of 20 years. Maybe if data of every month of each year was available then more analysis could be done.
 
 𝗙𝘂𝘁𝘂𝗿𝗲 𝘄𝗼𝗿𝗸 
